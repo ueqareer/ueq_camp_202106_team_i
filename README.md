@@ -15,6 +15,12 @@ git clone https://github.com/ueqareer/ueq_camp_202106_team_i.git
 # 注意点
 上のURLでは，デフォルトのリポジトリがmasterになっているが，現在ではmainになっているので注意
 
+# READMEファイルのプレビュー方法
+
+以下のURLを参考にする
+
+<https://www.atmarkit.co.jp/ait/articles/1804/20/news030.html>
+
 # 以下はデフォルトのREADMEファイルに書かれていた内容
 
 # …or create a new repository on the command line
