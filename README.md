@@ -13,7 +13,7 @@ git clone https://github.com/ueqareer/ueq_camp_202106_team_i.git
 ```
 
 # 注意点
-上のURLでは，デフォルトのレポジトリがmasterになっているが，現在ではmainになっているので注意
+上のURLでは，デフォルトのリポジトリがmasterになっているが，現在ではmainになっているので注意
 
 # 以下はデフォルトのREADMEファイルに書かれていた内容
 
